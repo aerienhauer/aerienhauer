@@ -8,6 +8,7 @@
 
 <p align="center">
   ![Java](https://img.shields.io/badge/Java-4B0082?style=for-the-badge&logo=java&logoColor=white)
+  
   ![JavaScript](https://img.shields.io/badge/JavaScript-00008B?style=for-the-badge&logo=javascript&logoColor=white)
 </p>
 
