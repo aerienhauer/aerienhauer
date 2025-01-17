@@ -7,9 +7,10 @@
 # Estou aprendendo:
 
 <div align="center">
-![Java](https://img.shields.io/badge/Java-4B0082?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-00008B?style=for-the-badge&logo=javascript&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-4B0082?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-00008B?style=for-the-badge&logo=javascript&logoColor=white)
 </div>
+
 
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=aerienhauer&show_icons=true&theme=radical)
