@@ -11,8 +11,7 @@
   <img src="https://img.shields.io/badge/JavaScript-00008B?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
 </p>
 
-
-
+<br><br>
 
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=aerienhauer&show_icons=true&theme=radical)
