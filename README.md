@@ -28,3 +28,7 @@
 
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=aerienhauer&layout=compact&theme=radical)
+
+<br><br>
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aerienhauer.seu_repositorio)
