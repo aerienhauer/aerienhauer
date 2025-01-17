@@ -1,7 +1,9 @@
 # 👋 Olá
 
-![GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJhaW9uM3N1OXExcGZrN3k2amtqOXQ0MDZvbXBjb3hxYm91dGl0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dQG6fZl6zpYVOpqE7v/giphy.gif)
-![GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm04Y3Q5anFub2ZodzhsNjgyZmI1dnZzYmk0aDZldzE4YWI0a3F5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IzfJSTepKi5vW/giphy.gif)
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJhaW9uM3N1OXExcGZrN3k2amtqOXQ0MDZvbXBjb3hxYm91dGl0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dQG6fZl6zpYVOpqE7v/giphy.gif" alt="GIF divertido" width="300">
+</div>
+
 ![Java](https://img.shields.io/badge/Java-4B0082?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-00008B?style=for-the-badge&logo=javascript&logoColor=white)
 
