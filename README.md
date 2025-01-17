@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**aerienhauer/aerienhauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GIF divertido](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdndWJzZHh4a2xscGF4ZjJ4cDQxNXpncmk0Mml4emU4eTN5MjhjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oX7a6TfnVqTRZS7czp/giphy.gif)
 
 Here are some ideas to get you started:
 
