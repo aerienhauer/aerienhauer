@@ -2,4 +2,7 @@
 
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=aerienhauer&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=aerienhauer&show_icons=true&count_private=true&theme=tokyonight)
+
+
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=aerienhauer&layout=compact&theme=tokyonight)
