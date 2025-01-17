@@ -1,7 +1,7 @@
 # 👋 Olá
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJhaW9uM3N1OXExcGZrN3k2amtqOXQ0MDZvbXBjb3hxYm91dGl0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dQG6fZl6zpYVOpqE7v/giphy.gif" alt="GIF divertido" width="300">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem14dGdxaWNpcWQ0MjRmNG14ZXprY2FsdmVuaDVjaThlcGx6Ym9ueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sG796ssqac88gPuBo2/giphy.gif" alt="GIF divertido" width="300">
 </div>
 
 ![Java](https://img.shields.io/badge/Java-4B0082?style=for-the-badge&logo=java&logoColor=white)
